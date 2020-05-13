@@ -61,7 +61,7 @@ class NoteForm extends Component {
           onChange={this.handleUserInput}
         />
         <button className="noteButton" onClick={this.writeNote}>
-          Add Note
+          Add Review
         </button>
         <button
           className="btn-Signout"
